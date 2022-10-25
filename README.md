@@ -46,4 +46,4 @@ As querys dispostas pela API são:
 ## Autor
 *Ernandes Ventura Silva Neto*
 
-[![Twitter Badge](https://img.shields.io/badge/-@nandesventura-6633cc?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/gventura_ss)](https://twitter.com/nandesventura) [![Linkedin Badge](https://img.shields.io/badge/-Ernandes%20Ventura-6633cc?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/guilherme-ventura-703612150/)](https://www.linkedin.com/in/ernandes-ventura-892a88119/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ernandes%20Ventura-6633cc?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/guilherme-ventura-703612150/)](https://www.linkedin.com/in/ernandes-ventura-892a88119/)
