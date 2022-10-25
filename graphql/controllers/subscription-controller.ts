@@ -82,11 +82,11 @@ class SubscriptionService {
         const beforeEnding = isAfter(findRide!.end_date_registration, new Date());
 
         if(!afterStarted){
-            throw new Error("As incrições ainda não foram abertas");
+            throw new Error("The subscriptions is not open");
         }
 
         if(!afterStarted || !beforeEnding) {
-            throw new Error("Incrições encerradas");
+            throw new Error("The subscriptions is close");
         }
 
         //create      
